@@ -16,6 +16,11 @@ Topics_Discussed : {
     'Winter Task to be given in the group'
 },
 Absentees : {
-    'To be added',
+    Vidhu Jha
+    Srijanak De
+    Lalit Potey
+    Avishkar Suryavanshi
+    Vignesh Toshniwal
+    S Keerthi Reddy
 }
 ```
