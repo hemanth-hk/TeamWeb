@@ -1,5 +1,7 @@
 # TeamWeb
+
 ### A repo for the Branding and Relations Cell Web Team contains tasks and MOMs
+
 ### Only Web Team Members are allowed to send `pr`
 
 ---
@@ -16,11 +18,9 @@ Topics_Discussed : {
     'Winter Task to be given in the group'
 },
 Absentees : {
-    Vidhu Jha
-    Srijanak De
-    Lalit Potey
-    Avishkar Suryavanshi
-    Vignesh Toshniwal
-    S Keerthi Reddy
+    'Vidhu Jha',
+    'Lalit Potey',
+    'Vignesh Toshniwal',
+    'S Keerthi Reddy'
 }
 ```
