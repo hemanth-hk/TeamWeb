@@ -1,6 +1,7 @@
 # TeamWeb
 
-### A repo for the Branding and Relations Cell Web Team contains tasks and MOMs
+### A repo for the Branding and Relations Cell Web Team
+ ### contains tasks and MOMs
 
 ### Only Web Team Members are allowed to send `pr`
 
