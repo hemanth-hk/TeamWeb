@@ -4,7 +4,7 @@
 ### Contains tasks and MOMs
 ### Only Web Team Members are allowed to send `pr`
 ---
-## Basic commands
+## Basic Workflow
 
 * Fork this repo
 * Clone the forked repo with `git clone <url of ur repo>`
